@@ -1,0 +1,45 @@
+.blueheader {
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.whiteheader {
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    margin-top: 20px ;
+    margin-bottom: 19px;
+}
+
+.main {
+    background-color: #000;
+    max-width: 600px;
+}
+
+.lettertext {
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+    padding-left: 42px;
+    padding-right: 42px;
+    margin-bottom: 47px;
+    margin-top: 0;
+}
+
+.orangetext {
+    color: #fa5d26;
+    font-weight: bold;
+}
+
+.yellowtext {
+    color: #aa7727;
+    font-weight: bold;
+}
