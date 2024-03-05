@@ -8,6 +8,17 @@
     margin-bottom: 20px;
 }
 
+.purpleheader {
+    font-size: 55px;
+    color: #8d1296;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
 .whiteheader {
     font-size: 36px;
     color: #bcbcbd;
@@ -42,4 +53,39 @@
 .yellowtext {
     color: #aa7727;
     font-weight: bold;
+}
+
+.graytext {
+    font-size: 11px;
+    line-height: 22px;
+    color: #edd3ae;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.button {
+    text-transform: uppercase;
+    width: 299px;
+    padding-bottom: 12px;
+    padding-top: 11px;
+    border-radius: 3px;
+    background-color: #9f15a9;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+    display: inline-block;
+}
+
+.contener {
+    text-align: center;
+}
+
+.small {
+    font-size: 18px;
+    padding-top: 18px;
+    padding-bottom: 13px;
 }
