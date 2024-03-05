@@ -89,3 +89,46 @@
     padding-top: 18px;
     padding-bottom: 13px;
 }
+
+.color {
+    background-color: #edd3ae;
+    text-align: center;
+}
+
+.bluehed {
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.blacktext {
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.orangespan {
+    font-size: 14px;
+    line-height: 22px;
+    color: #b45608;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+}
+
+.social {
+    text-align: center;
+}
+
+.dot {
+    display: inline-block;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    background-color: #1b416e;
+    margin-bottom: 25px;
+}
