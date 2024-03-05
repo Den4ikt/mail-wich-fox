@@ -124,6 +124,7 @@
     text-align: center;
 }
 
+
 .dot {
     display: inline-block;
     border-radius: 50%;
@@ -131,4 +132,16 @@
     height: 5px;
     background-color: #1b416e;
     margin-bottom: 25px;
+}
+
+.smallheader {
+    font-size: 36px;
+}
+
+.mediumheader {
+    font-size: 19px;
+}
+
+.paddingbottom {
+    margin-bottom: 60px;
 }
